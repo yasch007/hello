@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
+import "log"
 
 func main() {
-	fmt.Printf("Hello, world.\n")
+	log.Printf("Hello, world.\n")
 }
